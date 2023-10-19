@@ -3,7 +3,7 @@
 
   
 
-**Because this demo involves using typescript, we can create a simple react application using the command `npx create-react-app my-app --template typescript`.**
+**Because this demo involves using typescript, we can create a simple react application using the command `npx create-react-app my-app --template typescript` or follow [this](https://create-react-app.dev/docs/adding-typescript).**
 
   
 
